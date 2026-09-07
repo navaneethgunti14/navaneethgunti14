@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Navaneeth Gunti
+#  Hello, I'm Navaneeth Gunti
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building web applications and backend solutions. Below you'll find information about my skills, projects, and how to connect with me.
 
 ---
 
-## 📋 About Me
+##  About Me
 
 **Name:** Navaneeth Gunti
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building web
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 ### Web Development
 - Frontend & Backend Development
@@ -40,14 +40,14 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building web
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### Smart House with Advanced Technology
 An innovative IoT project implementing advanced technology for smart home automation and control systems.
 
 ---
 
-## 📞 Connect With Me
+##  Connect With Me
 
 - **Email:** navaneethgunti14@gmail.com
 - **GitHub:** [@navaneethgunti14](https://github.com/navaneethgunti14)
@@ -55,7 +55,7 @@ An innovative IoT project implementing advanced technology for smart home automa
 
 ---
 
-## 🎯 What I'm Looking For
+##  What I'm Looking For
 
 - Opportunities to collaborate on web development and backend projects
 - Open source contributions
